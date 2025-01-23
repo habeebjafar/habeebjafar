@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @habeebjafar
-- 👀 I’m flutter and nodejs developer
-- 🌱 I’m currently learning react for web frontend
+- 👀 I’m flutter and laravel developer
+- 🌱 I’m currently learning node js for  backend web
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 You can reach me on jafars4ab@gmail.com
 
